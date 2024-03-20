@@ -279,7 +279,7 @@ tr {
     height: 80%;
 }
 .girl-1 {
-    background: url(/pictures/girl.png) no-repeat;
+    background: url(pictures/girl.png) no-repeat;
     position: absolute;
     height: 70%;
     width: 70%;
